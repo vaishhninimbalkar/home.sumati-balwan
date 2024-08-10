@@ -2,5 +2,7 @@
 The Repository for Sumati Balwan Development
 
 
-Now i do some changes
-Another changes by me 
+Initial Version was uploaded.
+
+Development process wll be added with an kanban board
+
